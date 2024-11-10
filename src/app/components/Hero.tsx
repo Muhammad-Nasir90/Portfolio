@@ -4,9 +4,11 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div id='hero' className="min-h-screen bg-no-repeat bg-[url(/nasir.png)] bg-cover"
-    style={{backgroundSize: "30%", backgroundPosition:"left 100px top 100px"} }
-    >
+    <div 
+  id="hero" 
+  className="min-h-screen bg-no-repeat bg-cover bg-left-[100px] bg-top-[100px] bg-[url(/nasir.png)]"
+  style={{backgroundSize: "40%"}}  // If custom background size is needed.
+>
          
 
           <div className="container grid lg:grid-cols-2 h-[calc(100vh-60px)]">
