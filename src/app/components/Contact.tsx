@@ -12,7 +12,7 @@ const Contact = () => {
         <div className="grid md:grid-cols-2 gap-10">
             <div className="space-y-8">
                 <h2 className="text-5xl" data-aos="zoom-in-up">Contact me</h2>
-                <p className="text-gray-300 text-[18px] pt-2" data-aos="zoom-in-up">I'd love to hear from you! Feel free to reach out for any inquiries or collaborations.
+                <p className="text-gray-300 text-[18px] pt-2" data-aos="zoom-in-up">I&apos;d love to hear from you! Feel free to reach out for any inquiries or collaborations.
               </p>
                         <div className="flex gap-3 items-center" data-aos="zoom-in-up">
                             <MdMail size={30}/> muhammadnasir8787914@gmail.com
